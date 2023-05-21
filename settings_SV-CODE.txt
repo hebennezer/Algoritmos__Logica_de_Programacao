@@ -1,0 +1,14 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.insertSpaces": false,
+    "explorer.compactFolders": false,
+    "files.autoSave": "afterDelay",
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "clear ; python -u", 
+    },
+    "code-runner.ignoreSelection": true
+
+}
